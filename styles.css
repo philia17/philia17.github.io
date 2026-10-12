@@ -216,3 +216,17 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
 .paper-links .text-link { font-size: 12px; }
 .research-ledger article .manuscript-note { margin-top: 10px; font-size: 10px; line-height: 1.65; }
 .research-footnote a { text-decoration: underline; text-underline-offset: 3px; }
+
+/* Personal contributions and the full author abstract. */
+.project-copy .contribution { font-size: 12px; line-height: 1.8; padding-left: 14px; border-left: 2px solid var(--red); margin-top: 18px; }
+.paper-page { max-width: 840px; margin: 64px auto 80px; }
+.paper-page h1 { white-space: normal; font-size: clamp(32px, 4vw, 52px); line-height: 1.18; letter-spacing: -.025em; }
+.paper-authors { margin-top: 24px; font-size: 17px; color: var(--ink); }
+.paper-affiliation { margin-top: 12px; font-size: 12px; line-height: 1.8; color: var(--muted); }
+.paper-page .paper-links { margin-top: 28px; }
+.paper-publication-note { margin: 22px 0; font-size: 12px; line-height: 1.8; color: var(--muted); }
+.paper-publication-note a { text-decoration: underline; text-underline-offset: 3px; }
+.paper-abstract { margin: 36px 0; padding-top: 28px; border-top: 1px solid var(--rule); }
+.paper-abstract h2 { font-size: 30px; margin-bottom: 18px; }
+.paper-abstract p { font-size: 16px; line-height: 1.85; }
+@media (max-width: 700px) { .paper-page { margin-top: 38px; } .paper-authors { font-size: 15px; } .paper-abstract p { font-size: 15px; } }

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://philia17.github.io/sitemap.xml
