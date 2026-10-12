@@ -210,3 +210,9 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
   .footer a { width: 100%; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; } }
+
+/* Research reading and source links. */
+.paper-links { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 20px; margin-top: 12px; }
+.paper-links .text-link { font-size: 12px; }
+.research-ledger article .manuscript-note { margin-top: 10px; font-size: 10px; line-height: 1.65; }
+.research-footnote a { text-decoration: underline; text-underline-offset: 3px; }
