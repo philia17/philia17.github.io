@@ -230,3 +230,17 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
 .paper-abstract h2 { font-size: 30px; margin-bottom: 18px; }
 .paper-abstract p { font-size: 16px; line-height: 1.85; }
 @media (max-width: 700px) { .paper-page { margin-top: 38px; } .paper-authors { font-size: 15px; } .paper-abstract p { font-size: 15px; } }
+
+/* Source-based early project reading pages. */
+.project-note-lede { margin: 24px 0 30px; font-size: 17px; line-height: 1.8; max-width: 720px; }
+.project-note-page > .project-figure { margin: 28px 0 40px; }
+.project-note-section { margin: 38px 0; padding-top: 26px; border-top: 1px solid var(--rule); }
+.project-note-section h2 { font-size: 30px; line-height: 1.25; margin-bottom: 18px; }
+.project-note-section p { font-size: 15px; line-height: 1.85; margin-bottom: 16px; }
+.project-note-section .project-figure { margin: 24px 0; }
+.project-note-page figcaption a { text-decoration: underline; text-underline-offset: 3px; }
+.source-image-pair { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 24px; }
+.earlier-study-link { margin-top: 25px; }
+@media (max-width: 700px) { .source-image-pair { grid-template-columns: 1fr; gap: 0; } .project-note-section h2 { font-size: 26px; } .project-note-lede { font-size: 16px; } }
+
+.project-note-page .project-figure img { display: block; width: 100%; height: auto; object-fit: contain; }
