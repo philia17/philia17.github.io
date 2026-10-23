@@ -244,3 +244,91 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
 @media (max-width: 700px) { .source-image-pair { grid-template-columns: 1fr; gap: 0; } .project-note-section h2 { font-size: 26px; } .project-note-lede { font-size: 16px; } }
 
 .project-note-page .project-figure img { display: block; width: 100%; height: auto; object-fit: contain; }
+
+/* Reading edition: keep the notebook character at comfortable text sizes. */
+.hero-lede { font-size: 16px; }
+nav { font-size: 14px; }
+.wordmark-sub { font-size: 11px; }
+.eyebrow, .section-kicker, .mono { font-size: 11px; }
+.hero-actions, .text-link, .paper-links .text-link { font-size: 14px; }
+.contents-line { font-size: 13px; }
+.contents-line a span, .contents-date { font-size: 11px; }
+.figure-label { font-size: 10px; }
+.section-intro { font-size: 15px; max-width: 350px; }
+.project-category, .project-tools, .build-label { font-size: 11px; }
+.project-copy > p:not([class]), .build-copy > p:not([class]) { font-size: 16px; }
+.project-copy .contribution, .detail-copy { font-size: 15px; }
+.project-details summary, .study-details summary { font-size: 14px; min-height: 48px; }
+.acceptance, .plate-label { font-size: 11px; }
+.project-figure figcaption { font-size: 11px; line-height: 1.65; }
+.project-figure figcaption a { width: auto; flex: 0 0 auto; }
+.image-mat > a { display: block; }
+.project-index { display: block; margin: -6px 0 38px; padding: 18px 0; border-block: 1px solid var(--rule); }
+.project-index > span { display: block; color: var(--muted); margin-bottom: 12px; }
+.project-index > div { display: flex; flex-wrap: wrap; gap: 4px 24px; }
+.project-index a { font-size: 13px; padding: 8px 0; border-bottom: 1px solid transparent; }
+.project-index a:hover { border-color: currentColor; }
+.record-note, .research-footnote { font-size: 14px; line-height: 1.8; }
+.research-ledger article { grid-template-columns: 96px minmax(0,1fr) 146px; }
+.paper-venue { font-size: 12px; }
+.paper-venue > span, .paper-status, .paper-status em { font-size: 11px; }
+.research-ledger article p { font-size: 14px; }
+.research-ledger article .manuscript-note { font-size: 13px; line-height: 1.8; }
+.about-copy > p + p { font-size: 16px; }
+.personal-note em { display: block; font-size: 23px; color: var(--red); margin-bottom: 7px; }
+.study-details dd { font-size: 14px; }
+.study-details dt { font-size: 12px; }
+.connect p:not([class]) { font-size: 15px; }
+.external-links a { font-size: 15px; min-height: 48px; }
+.footer { font-size: 11px; }
+.paper-affiliation, .paper-publication-note { font-size: 14px; }
+.paper-authors { line-height: 1.8; }
+.paper-page .image-mat { padding: 16px; background: #fff; }
+.project-note-section p { font-size: 16px; }
+.project-note-section .source-note { color: var(--muted); font-size: 13px; }
+.evidence-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin: 24px 0; }
+.evidence-grid > div { border-left: 2px solid var(--red); padding-left: 18px; }
+.evidence-label { display: block; color: var(--muted); font: 11px/1.7 var(--mono); margin-bottom: 10px; }
+.evidence-grid strong { display: block; color: var(--ink); font: 30px/1.2 var(--serif); margin-bottom: 14px; }
+.evidence-grid p { margin-bottom: 0; font-size: 14px; }
+.record-title { font-family: var(--serif); color: var(--ink); font-size: 21px !important; line-height: 1.5 !important; }
+@media (max-width: 700px) {
+  nav { font-size: 13px; gap: 18px; }
+  .hero-lede { font-size: 16px; }
+  .eyebrow { font-size: 10px; letter-spacing: .02em; }
+  .contents-line { gap: 8px 16px; }
+  .contents-line > .mono { font-size: 10px; }
+  .contents-line a { font-size: 12px; }
+  .section-intro { font-size: 15px; }
+  .project-divider { grid-template-columns: 32px minmax(0,1fr); }
+  .project-category { font-size: 10px; }
+  .project-figure figcaption { font-size: 10px; }
+  .paper-links { gap: 6px 18px; }
+  .research .text-link { margin-top: 0; }
+  .research-ledger article { grid-template-columns: 60px minmax(0,1fr); }
+  .paper-venue { font-size: 11px; }
+  .paper-venue > span { font-size: 10px; }
+  .paper-status, .paper-status em { font-size: 11px; }
+  .paper-status em { display: inline-block; }
+  .external-links { column-gap: 22px; }
+  .external-links a { font-size: 14px; }
+  .footer { font-size: 10px; }
+  .evidence-grid { grid-template-columns: 1fr; gap: 22px; }
+  .project-note-lede { font-size: 17px; }
+  .project-note-section h2 { font-size: 29px; }
+}
+@media print {
+  body { background: white; color: #222; font-size: 11pt; }
+  body::before, .skip-link, .masthead nav, .orbit-sketch, .margin-note, .contents-line, .project-index, .footer a { display: none; }
+  .site-shell { width: 100%; max-width: none; }
+  .masthead { padding: 0 0 12pt; }
+  .hero { padding: 24pt 0; }
+  .section { margin-top: 30pt; }
+  .paper-page { margin: 24pt 0; max-width: none; }
+  .project-note-section, .paper-abstract { margin: 20pt 0; padding-top: 14pt; }
+  h1, h2, h3, h4 { break-after: avoid; }
+  figure, .evidence-grid { break-inside: avoid; }
+  .connect { background: white; color: #222; padding: 20pt 0; border-top: 1px solid #888; }
+  .connect h2, .connect p:not([class]), .connect h2 em, .connect .section-kicker { color: #222; }
+  .text-link, .paper-links .text-link { font-size: 10pt; }
+}
