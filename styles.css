@@ -88,7 +88,7 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
 .assistant-figure .image-mat { background: #eeeee5; }
 .avatar-figure .image-mat { background: #e3e8dd; }
 .avatar-figure .plate-label { color: var(--body); }
-.avatar-figure .paper-image-link { max-width: 674px; margin-inline: auto; }
+.avatar-figure .paper-image-link { max-width: 1100px; margin-inline: auto; }
 .work-pair .project-copy { margin-top: 29px; max-width: 740px; }
 .work-pair .project-copy h4 { font-size: 36px; }
 .work-pair .project-copy > p:not([class]) { max-width: 660px; }
