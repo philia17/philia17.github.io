@@ -180,6 +180,14 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
 .evidence-label { display: block; margin-bottom: 10px; color: var(--muted); font: 11px/1.7 var(--mono); }
 .evidence-grid strong { display: block; margin-bottom: 15px; color: var(--ink); font: 400 30px/1.2 var(--serif); }
 .evidence-grid p { margin-bottom: 0; font-size: 14px; }
+.results-table-wrap { max-width: 760px; margin: 24px 0 30px; overflow-x: auto; }
+.results-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.results-table caption { padding: 0 0 12px; color: var(--muted); font: 11px/1.7 var(--mono); text-align: left; }
+.results-table th, .results-table td { padding: 12px 9px; border-bottom: 1px solid var(--rule); text-align: right; vertical-align: top; overflow-wrap: break-word; font-size: 13px; line-height: 1.55; }
+.results-table th:first-child, .results-table td:first-child { width: 44%; text-align: left; }
+.results-table thead th { color: var(--muted); font: 11px/1.55 var(--mono); }
+.results-table tbody th { font-weight: 500; }
+.results-table tbody tr.highlight th, .results-table tbody tr.highlight td { color: var(--ink); font-weight: 650; }
 .record-title { color: var(--ink); font: 400 22px/1.5 var(--serif) !important; }
 @media (max-width: 1000px) {
   .site-shell { width: calc(100% - 64px); }
@@ -273,6 +281,8 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
   .project-note-section { margin: 34px 0; padding-top: 26px; }
   .project-note-section h2 { font-size: 25px; }
   .source-image-pair, .evidence-grid { grid-template-columns: minmax(0,1fr); gap: 24px; }
+  .results-table th, .results-table td { padding: 10px 5px; font-size: 12px; }
+  .results-table thead th { font-size: 10px; }
 }
 @media (max-width: 360px) {
   .hero-actions { gap: 18px; }
