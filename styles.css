@@ -393,3 +393,8 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
  .research-project .project-highlights { break-inside: avoid; }
  .project-video-grid { display: none; }
 }
+
+/* Current technical service in the About section. */
+.activity-note { margin-top: 28px; padding: 22px 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+.activity-note h3 { margin-top: 10px; font: 400 23px/1.35 var(--serif); }
+.activity-note p:not(.section-kicker) { margin-top: 12px; font-size: 14px; line-height: 1.85; }
