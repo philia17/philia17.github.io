@@ -1,12 +1,453 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://philia17.github.io/</loc><lastmod>2026-11-07</lastmod></url>
-<url><loc>https://philia17.github.io/research/robot-elevator-interaction/</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://philia17.github.io/research/pi-engineering-assistant/</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://philia17.github.io/research/bangbang-v2/</loc><lastmod>2026-11-07</lastmod></url>
-<url><loc>https://philia17.github.io/projects/transformable-land-air-robot/</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://philia17.github.io/projects/doppler-radar/</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://philia17.github.io/projects/forward-converter/</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://philia17.github.io/projects/robotic-vehicle/</loc><lastmod>2026-10-23</lastmod></url>
-<url><loc>https://philia17.github.io/projects/earlier-studies/</loc><lastmod>2026-10-23</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://philia17.github.io/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/research/robot-elevator-interaction/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/research/robot-elevator-interaction/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/research/robot-elevator-interaction/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/research/robot-elevator-interaction/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/research/robot-elevator-interaction/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/robot-elevator-interaction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/robot-elevator-interaction/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/research/pi-engineering-assistant/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/research/pi-engineering-assistant/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/research/pi-engineering-assistant/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/research/pi-engineering-assistant/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/research/pi-engineering-assistant/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/pi-engineering-assistant/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/pi-engineering-assistant/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/research/bangbang-v2/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/bangbang-v2/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/research/bangbang-v2/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/bangbang-v2/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/research/bangbang-v2/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/bangbang-v2/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/research/bangbang-v2/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/bangbang-v2/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/research/bangbang-v2/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/research/bangbang-v2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/research/bangbang-v2/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/projects/transformable-land-air-robot/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/projects/transformable-land-air-robot/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/projects/transformable-land-air-robot/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/projects/transformable-land-air-robot/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/projects/transformable-land-air-robot/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/transformable-land-air-robot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/transformable-land-air-robot/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/projects/doppler-radar/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/doppler-radar/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/projects/doppler-radar/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/doppler-radar/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/projects/doppler-radar/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/doppler-radar/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/projects/doppler-radar/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/doppler-radar/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/projects/doppler-radar/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/doppler-radar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/doppler-radar/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/projects/forward-converter/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/forward-converter/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/projects/forward-converter/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/forward-converter/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/projects/forward-converter/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/forward-converter/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/projects/forward-converter/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/forward-converter/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/projects/forward-converter/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/forward-converter/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/forward-converter/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/projects/robotic-vehicle/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/robotic-vehicle/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/projects/robotic-vehicle/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/robotic-vehicle/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/projects/robotic-vehicle/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/robotic-vehicle/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/projects/robotic-vehicle/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/robotic-vehicle/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/projects/robotic-vehicle/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/robotic-vehicle/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/robotic-vehicle/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/projects/earlier-studies/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/earlier-studies/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/zh/projects/earlier-studies/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/earlier-studies/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/fr/projects/earlier-studies/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/earlier-studies/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ja/projects/earlier-studies/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/earlier-studies/" />
+  </url>
+  <url>
+    <loc>https://philia17.github.io/ko/projects/earlier-studies/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://philia17.github.io/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://philia17.github.io/zh/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://philia17.github.io/fr/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://philia17.github.io/ja/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://philia17.github.io/ko/projects/earlier-studies/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://philia17.github.io/projects/earlier-studies/" />
+  </url>
 </urlset>
