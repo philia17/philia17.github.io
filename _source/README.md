@@ -29,3 +29,7 @@ standalone author lists, names and labels retained across the site. Original
 files remain at their original URLs. The localized pages label the English
 PDFs and citation downloads. The localized `404.html` pages have direct URLs.
 GitHub Pages serves the root `404.html` for missing URLs.
+
+## Editorial approach
+
+Write each language as a natural professional portfolio, not a sentence-by-sentence translation. Reorder or split sentences when that reads better, and use familiar local technical terms. Preserve the meaning, personal contribution, numbers, author credits, version information and evidence limitations. Keep official paper titles and names as published. The English wording guides the facts, not the syntax of every locale.
