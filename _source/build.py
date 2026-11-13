@@ -37,7 +37,7 @@ UI = {
 }
 PAPER_TITLES = {
     "Robot–Elevator Interaction: From Physical Panel Recognition to Activation",
-    "A Test and Training Platform Utilizing a Raspberry Pi 5: AI-Retrieval, Tools and a Compact LLM",
+    "A Lightweight Test and Training Platform Utilizing a Raspberry Pi 5: AI-retrieval, Tools and a Compact LLM",
     "Bangbang V2: On-Device Facial Emotion and Bilingual Speech Recognition for a Raspberry Pi-Based Tele-Operated Avatar Robot",
     "Bangbang 2.0: Human-in-the-Loop Edge-Cloud LLM Decision Support for Inclusive Service Robots",
 }
