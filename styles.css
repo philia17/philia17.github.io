@@ -102,6 +102,7 @@ details[open] summary > span:last-child { transform: rotate(45deg); }
 .detail-copy p { font-size: 14px; }
 .detail-copy p + p { margin-top: 12px; }
 .acceptance { margin-top: 14px; color: var(--muted); font: 11px/1.8 var(--mono) !important; }
+.acceptance a { text-decoration: underline; text-underline-offset: .18em; }
 .paper-links { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 22px; margin-top: 14px; }
 .paper-links .text-link { font-size: 13px; }
 .work-pair { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 48px; margin-top: 70px; }
