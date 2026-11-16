@@ -333,7 +333,6 @@
   "bangbang-v2.materials.010": "FURP 2026에 제출한 팀 포스터",
   "bangbang-v2.materials.011": "PDF · 1쪽 · 1.4 MB",
   "bangbang-v2.materials.012": "<1>Bangbang 2.0: Multimodal Perception and AI Assistance for Inclusive Telepresence.</1> 포스터 팀원은 Changshuai Liu, Yanjie Zhou, Siheng Ye, Yuechen Cao입니다. 지도 교원은 David Chieng, 공동 지도 교원은 Younghoon Chang입니다.",
-  "bangbang-v2.materials.013": "HRFEST 링크를 누르면 주최 측이 Google Drive에 공개한 자료가 열립니다. 논문 230 전문 PDF는 이 사이트에 올리지 않았습니다. 이 사이트의 논문 99 발표 자료는 조작자 지원 연구를 다루며, PDF에서는 삽입된 영상이 정지 화면으로 보입니다.",
   "bangbang-v2.materials.alt.001": "전시 포스터 전체. 원본 해상도로 보려면 PDF를 여세요.",
   "bangbang-v2.materials.014": "FURP 2026에 제출한 팀 포스터<1/><2>전체 포스터 보기 <3/></2>",
   "bangbang-v2.source-title.001": "공개 소스 코드",
@@ -468,6 +467,7 @@
   "robot-elevator-interaction.record.001": "IHCI 2026 · 논문 105 · 구두 발표 채택.",
   "robot-elevator-interaction.record.002": "공식 프로그램상 세션은 닝보 현지 시간(UTC+8) 2026년 10월 29일 15:00–16:00, SS4, IEB 124입니다. 논문집 게재, DOI, 색인 등재 여부는 아직 확인되지 않았습니다.",
   "robot-elevator-interaction.record.003": "기존의 로봇용 엘리베이터 인터페이스는 제조사마다 별도의 개조가 필요해 비용이 많이 들고 적용 범위를 넓히기 어렵다. 기존 패널을 직접 조작하면 인프라 개조에 의존하지 않을 수 있지만, 버튼 배치, 조명, 반사, 표기 방식이 달라도 로봇이 조작부를 안정적으로 인식하고 해석해 작동시켜야 한다. 본 연구에서는 과업에 맞춘 버튼 검출, 전용 대상 인식, 시각·언어 정보에 기반한 의미 해석, 신뢰도에 따른 인식 결과 제외, 의미 상태 유지, 비동기 처리, 실제 버튼 조작을 하나로 연결한 엣지 시제품을 제시한다. 인식 성능, 정지 이미지 기반 버튼 선택, 실행 중 동작을 평가하고 실제 버튼 조작은 정성적 시연 2건으로 살펴봤다. 6개 건물에서 얻은 정지 RGB 이미지 112장으로 구성한 대상 선택 요청 475건 중 404건에서 의도한 버튼을 골라 85.1%의 정확도를 기록했다. 사람이 Open/Close/Other로 라벨을 붙인 버튼 영역 이미지 379장으로 별도 평가한 결과, HOG+SVM 분류기의 매크로 F1은 0.9963이었다. 207초간 실행했을 때 중복된 후보별 의미 분석 요청의 99.8%를 걸러냈으며, 라벨 변경, 깜박임, 비정상 종료, 카메라 중단은 관찰되지 않았다. 조작자의 요청으로 시작한 시연 2건에서 모두 로봇 팔이 선택한 버튼을 작동시킨 후 물러나 대기 상태로 돌아갔다. 이 결과는 오프라인에서 실시간으로 작동하는 강건한 엣지 기반 로봇–엘리베이터 조작 시스템을 설계할 때 고려할 점을 보여준다.",
-  "home.work.042": "HRFEST 2026 · 논문 230 <1/>",
-  "home.work.064": "IHCI 2026 · 논문 99 <1/>"
+  "bangbang-v2.materials.015": "아래 논문 PDF는 저자 버전입니다. HRFEST 발표 자료와 포스터는 주최 측의 Google Drive에서 볼 수 있습니다.",
+  "home.work.065": "HRFEST 2026 · 논문 230 · PDF <1/>",
+  "home.work.066": "IHCI 2026 · 논문 99 · PDF <1/>"
 }

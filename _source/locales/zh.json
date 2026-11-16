@@ -333,7 +333,6 @@
   "bangbang-v2.materials.010": "已提交的 FURP 2026 團隊海報",
   "bangbang-v2.materials.011": "PDF · 1 頁 · 1.4 MB",
   "bangbang-v2.materials.012": "<1>Bangbang 2.0: Multimodal Perception and AI Assistance for Inclusive Telepresence.</1> 海報團隊：Changshuai Liu、Yanjie Zhou、Siheng Ye 和 Yuechen Cao。指導老師：David Chieng。共同指導老師：Younghoon Chang。",
-  "bangbang-v2.materials.013": "HRFEST 連結會開啟主辦方存放在 Google Drive 的文件。本站未提供論文 230 的完整 PDF；本站的論文 99 簡報介紹操作者輔助研究，其中原有影片在 PDF 中以靜態畫面呈現。",
   "bangbang-v2.materials.alt.001": "完整展覽海報；開啟 PDF 可閱讀原始解析度版本",
   "bangbang-v2.materials.014": "已提交的 FURP 2026 團隊海報<1/><2>開啟完整海報 <3/></2>",
   "bangbang-v2.source-title.001": "公開原始碼",
@@ -468,6 +467,7 @@
   "robot-elevator-interaction.record.001": "IHCI 2026 · 論文 105 · 已獲接納為口頭報告。",
   "robot-elevator-interaction.record.002": "官方議程：2026 年 10 月 29 日 15:00–16:00 · SS4 · IEB 124 · 寧波（UTC+8）。論文集出版、DOI 與索引收錄仍未確認。",
   "robot-elevator-interaction.record.003": "現有可供機器人使用的電梯介面需要特定製造商的改裝，成本高且難以擴展。直接與既有電梯面板進行實體互動，是一種具有潛力且不依賴基礎設施改裝的替代方案，但機器人必須能在面板佈局、照明、反光與標籤慣例不同的情況下，可靠地感知、理解並操作控制元件。我們提出一套邊緣端原型系統，其端到端感知至動作流程整合任務專用按鈕偵測、專門化目標辨識、視覺語言語義理解、依信心度拒絕不確定結果、語義狀態維護、非同步處理及實體按鈕操作。我們評估感知效能、靜態影像目標選擇、執行行為，並以兩次定性按鈕啟動示範評估實體操作。從六棟建築的 112 張靜態 RGB 影像衍生出的 475 次目標選擇請求中，系統有 404 次選中預期按鈕，準確率為 85.1%。在另一組包含 379 張人工標註開門／關門／其他按鈕裁切影像的基準測試中，HOG+SVM 分類器取得 0.9963 的 Macro-F1。在 207 秒執行評估中，系統過濾了 99.8% 的冗餘候選層級語義請求，未觀察到標籤切換、閃爍、崩潰或相機中斷。在兩次由操作者發起的實體按鈕啟動示範中，機械臂均啟動了所選按鈕、撤回並返回待機狀態。這些結果為發展穩健、邊緣端、離線及即時的機器人與電梯互動系統提供實務見解與設計考量。",
-  "home.work.042": "HRFEST 2026 · 論文 230 <1/>",
-  "home.work.064": "IHCI 2026 · 論文 99 <1/>"
+  "bangbang-v2.materials.015": "下方的論文 PDF 為作者版本。HRFEST 的簡報與海報由主辦單位放在 Google Drive。",
+  "home.work.065": "HRFEST 2026 · 論文 230 · PDF <1/>",
+  "home.work.066": "IHCI 2026 · 論文 99 · PDF <1/>"
 }
