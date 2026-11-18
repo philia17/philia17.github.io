@@ -7,8 +7,8 @@
   <link rel="canonical" href="https://philia17.github.io/" />
   <link rel="preload" href="/assets/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="stylesheet" href="/styles.css?v=20261107-service" />
-  <link rel="stylesheet" href="/motion.css?v=20261118" />
-  <script src="/motion.js?v=20261118" defer></script>
+  <link rel="stylesheet" href="/motion.css?v=20261118-scene" />
+  <script src="/motion.js?v=20261118-scene" defer></script>
   <title>Siheng Ye (葉嗣恒) | Robotics, Control &amp; Embedded Intelligence</title>
   <script type="application/ld+json">
   {
@@ -39,12 +39,30 @@
     </header>
     <main id="main">
       <section class="hero" aria-labelledby="hero-title">
-        <div class="hero-copy">
+        <div class="hero-heading">
           <p class="eyebrow">Robotics · control · embedded intelligence</p>
           <h1 id="hero-title">Siheng Ye</h1>
           <p class="hero-thought">Between signals<br /> &amp; the <em>physical world.</em></p>
+        </div>
+        <div class="hero-aside">
+          <figure class="trajectory-plate">
+            <div class="trajectory-screen">
+              <canvas class="trajectory-canvas" width="640" height="480" aria-hidden="true"></canvas>
+              <button class="trajectory-motion" type="button" aria-pressed="true" hidden><span aria-hidden="true"></span> Motion</button>
+            </div>
+            <figcaption class="trajectory-caption">
+              <span>Lift Robot · illustrative trajectory</span>
+              <a href="#lift-title">View project <span aria-hidden="true">↗</span></a>
+            </figcaption>
+          </figure>
+          <figure class="portrait-print"><img src="/assets/display/profile-professional-v2-648.webp" alt="Portrait of Siheng Ye" width="1086" height="1448" srcset="/assets/display/profile-professional-v2-324.webp 324w, /assets/display/profile-professional-v2-648.webp 648w" sizes="46px" decoding="async" /><figcaption><span lang="zh-Hant">葉嗣恒</span><span>EEE · UNNC</span></figcaption></figure>
+          <p class="portrait-note">Observe. Build. Understand.</p>
+        </div>
+        <div class="hero-copy">
           <p class="hero-lede">I’m a final-year Electrical and Electronic Engineering student at the University of Nottingham Ningbo China. I work where sensing, software, and machines meet.</p>
-          <div class="signal-board">
+          <div class="hero-actions"><a class="ink-button" href="#work">Explore selected work <span aria-hidden="true">↘</span></a><a class="text-link" href="/assets/Siheng_YE_Public_CV_2026.pdf?v=20261107-bangbang-robothon" target="_blank" rel="noreferrer">Public CV <span aria-hidden="true">↗</span></a><a class="text-link" href="#research">Papers <span aria-hidden="true">↘</span></a></div>
+        </div>
+        <div class="signal-board">
             <nav aria-labelledby="signal-title">
               <p class="signal-title" id="signal-title">From signal to action</p>
               <ol class="signal-stages">
@@ -53,13 +71,6 @@
                 <li><a href="#lift-title" aria-label="Act: Robot–Elevator Interaction"><span class="signal-symbol signal-actuator" aria-hidden="true"></span><span>Act</span></a></li>
               </ol>
             </nav>
-            <button class="signal-replay" type="button" aria-label="Replay signal animation" hidden><span aria-hidden="true">↻</span></button>
-          </div>
-          <div class="hero-actions"><a class="ink-button" href="#work">Explore selected work <span aria-hidden="true">↘</span></a><a class="text-link" href="/assets/Siheng_YE_Public_CV_2026.pdf?v=20261107-bangbang-robothon" target="_blank" rel="noreferrer">Public CV <span aria-hidden="true">↗</span></a><a class="text-link" href="#research">Papers <span aria-hidden="true">↘</span></a></div>
-        </div>
-        <div class="hero-aside">
-          <figure class="portrait-print"><img src="/assets/display/profile-professional-v2-648.webp" alt="Portrait of Siheng Ye" width="1086" height="1448" fetchpriority="high" srcset="/assets/display/profile-professional-v2-324.webp 324w, /assets/display/profile-professional-v2-648.webp 648w" sizes="(max-width: 720px) 210px, (max-width: 1000px) 248px, 288px" decoding="async" /><figcaption><span lang="zh-Hant">葉嗣恒</span><span>EEE · UNNC</span></figcaption></figure>
-          <p class="portrait-note">Observe. Build. Understand.</p>
         </div>
       </section>
       <div class="contents-line"><span class="mono">On this page</span><a href="#work"><span>01</span> Selected work</a><a href="#research"><span>02</span> Research</a><a href="#about"><span>03</span> A little context</a><span class="contents-date">Ningbo · 2026</span></div>
