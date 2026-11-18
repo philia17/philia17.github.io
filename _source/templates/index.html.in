@@ -7,8 +7,8 @@
   <link rel="canonical" href="https://philia17.github.io/" />
   <link rel="preload" href="/assets/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="stylesheet" href="/styles.css?v=20261107-service" />
-  <link rel="stylesheet" href="/motion.css?v=20261118-scroll" />
-  <script src="/motion.js?v=20261118-scroll" defer></script>
+  <link rel="stylesheet" href="/motion.css?v=20261118-abstract" />
+  <script src="/motion.js?v=20261118-abstract" defer></script>
   <script type="module" src="/scroll-reveal.js?v=20261118-scroll"></script>
   <title>Siheng Ye (葉嗣恒) | Robotics, Control &amp; Embedded Intelligence</title>
   <script type="application/ld+json">
@@ -46,16 +46,10 @@
           <p class="hero-thought">Between signals<br /> &amp; the <em>physical world.</em></p>
         </div>
         <div class="hero-aside">
-          <figure class="trajectory-plate">
-            <div class="trajectory-screen">
-              <canvas class="trajectory-canvas" width="640" height="480" aria-hidden="true"></canvas>
-              <button class="trajectory-motion" type="button" aria-pressed="true" hidden><span aria-hidden="true"></span> Motion</button>
-            </div>
-            <figcaption class="trajectory-caption">
-              <span>Lift Robot · illustrative trajectory</span>
-              <a href="#lift-title">View project <span aria-hidden="true">↗</span></a>
-            </figcaption>
-          </figure>
+          <div class="signal-art">
+            <canvas class="signal-art-canvas" width="720" height="500" aria-hidden="true"></canvas>
+            <button class="signal-art-motion" type="button" aria-pressed="true" hidden><span aria-hidden="true"></span> Motion</button>
+          </div>
           <figure class="portrait-print"><img src="/assets/display/profile-professional-v2-648.webp" alt="Portrait of Siheng Ye" width="1086" height="1448" srcset="/assets/display/profile-professional-v2-324.webp 324w, /assets/display/profile-professional-v2-648.webp 648w" sizes="46px" decoding="async" /><figcaption><span lang="zh-Hant">葉嗣恒</span><span>EEE · UNNC</span></figcaption></figure>
           <p class="portrait-note">Observe. Build. Understand.</p>
         </div>
