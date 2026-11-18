@@ -267,6 +267,7 @@
   function applyPreference() {
     control.hidden = reducedMotion.matches;
     control.setAttribute('aria-pressed', String(playing));
+    document.documentElement.dataset.portfolioMotion = playing && !reducedMotion.matches ? 'on' : 'off';
     if (reducedMotion.matches) paint(6.4);
     updatePlayback();
   }
@@ -287,16 +288,6 @@
       updatePlayback();
     });
     observer.observe(canvas);
-    if (!reducedMotion.matches && !location.hash) {
-      const reveal = new IntersectionObserver((entries, watcher) => {
-        for (const {isIntersecting, target} of entries) {
-          if (!isIntersecting) continue;
-          target.classList.add('figure-arrived');
-          watcher.unobserve(target);
-        }
-      }, {threshold:.2});
-      document.querySelectorAll('#work .project-figure').forEach(figure => reveal.observe(figure));
-    }
   } else visible = true;
 
   if (!location.hash && !reducedMotion.matches) document.body.classList.add('hero-arrived');
