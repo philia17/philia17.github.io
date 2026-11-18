@@ -7,6 +7,8 @@
   <link rel="canonical" href="https://philia17.github.io/ja/">
   <link rel="preload" href="/assets/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/styles.css?v=20261112-languages">
+  <link rel="stylesheet" href="/motion.css?v=20261118">
+  <script src="/motion.js?v=20261118" defer></script>
   <title>Siheng Ye（葉嗣恒）｜ロボティクス・制御・組み込みAI</title>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ProfilePage", "dateModified": "2026-11-04", "mainEntity": {"@type": "Person", "name": "Siheng Ye", "alternateName": "葉嗣恒", "description": "電気電子工学を専攻し、組み込み機器での認識処理や制御、ロボティクス、エッジAIに取り組んでいます。", "image": "https://philia17.github.io/assets/profile-professional-v2.png", "affiliation": {"@type": "CollegeOrUniversity", "name": "University of Nottingham Ningbo China"}, "sameAs": ["https://www.linkedin.com/in/siheng-ye/", "https://github.com/philia17", "https://orcid.org/0009-0007-4314-2841"]}, "inLanguage": "ja"}</script>
 
@@ -29,7 +31,7 @@
 <meta property="og:locale:alternate" content="ko_KR">
 <script src="/language-switch.js?v=20261112-languages" defer></script>
 </head>
-<body>
+<body class="portfolio-home">
   <a class="skip-link" href="#main">本文へ移動</a>
   <div class="site-shell" id="top">
     <header class="masthead">
@@ -44,6 +46,17 @@
           <h1 id="hero-title">Siheng Ye</h1>
           <p class="hero-thought">信号と<br><em>現実世界</em>のあいだ。</p>
           <p class="hero-lede">ノッティンガム大学寧波校で電気電子工学を学ぶ最終学年の学生です。センサー、ソフトウェア、機械をつなぐ技術に取り組んでいます。</p>
+          <div class="signal-board">
+            <nav aria-labelledby="signal-title">
+              <p class="signal-title" id="signal-title">信号から動作へ</p>
+              <ol class="signal-stages">
+                <li><a href="#bangbang-title" aria-label="センシング：Bangbang V2"><span class="signal-symbol signal-sensor" aria-hidden="true"></span><span>センシング</span></a></li>
+                <li><a href="#assistant-title" aria-label="演算：Raspberry Pi 5 工学学習支援ツール"><span class="signal-symbol signal-compute" aria-hidden="true"></span><span>演算</span></a></li>
+                <li><a href="#lift-title" aria-label="動作：ロボットによるエレベーター操作"><span class="signal-symbol signal-actuator" aria-hidden="true"></span><span>動作</span></a></li>
+              </ol>
+            </nav>
+            <button class="signal-replay" type="button" aria-label="信号のアニメーションを再生する" hidden><span aria-hidden="true">↻</span></button>
+          </div>
           <div class="hero-actions"><a class="ink-button" href="#work">主なプロジェクトを見る <span aria-hidden="true">↘</span></a><a class="text-link" href="/assets/Siheng_YE_Public_CV_2026.pdf?v=20261107-bangbang-robothon" target="_blank" rel="noreferrer" hreflang="en">公開CV <span aria-hidden="true">↗</span> <span class="material-language">(英語)</span></a><a class="text-link" href="#research">論文 <span aria-hidden="true">↘</span></a></div>
         </div>
         <div class="hero-aside">
